@@ -1,5 +1,5 @@
-from .bot import SimpleBot
+from .bot import VietRacer
 
 
 def test_init():
-    SimpleBot(track=None)
+    VietRacer(track=None)
